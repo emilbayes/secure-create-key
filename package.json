@@ -1,6 +1,6 @@
 {
   "name": "secure-create-key",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create a symmetric cryptographic key in a secure, read-only Buffer",
   "main": "index.js",
   "dependencies": {
